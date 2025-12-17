@@ -1,0 +1,20 @@
+Qualificações
+
+Conhecimento avançado de C++ moderno (por exemplo, C++11, C++14, C++17).
+Conhecimento avançado de frameworks/camadas de software GPGPU, como CUDA e OpenCL.
+Conhecimento avançado de computação distribuída e paralela em clusters híbridos (CPU e GPU).
+Bom conhecimento de otimização em nível de dispositivo e arquitetura de GPU.
+Bom conhecimento de padrões de projeto C++ modernos e conceitos de engenharia de software (por exemplo, metaprogramação de templates, programação genérica, etc.).
+Capacidade de trabalhar em ambientes Windows e Linux.
+Alguma experiência com linguagens de programação/scripting, como Python e Matlab.
+Alguma experiência com programação MPI.
+
+### Conhecimentos, Habilidades e Competências
+
+Experiência comprovada em portar código serial ou MPI/OpenMP legado para GPUs.
+Conhecimento de computação científica (por exemplo, solvers lineares e não lineares, métodos numéricos, etc.).
+Familiaridade com matemática computacional (por exemplo, álgebra linear, cálculo, decomposição de matrizes, etc.).
+Conhecimento de métodos de discretização de EDPs, como Elementos Finitos, Volumes Finitos ou Lattice Boltzmann.
+Familiaridade com bibliotecas de computação científica de código aberto (por exemplo, HYPRE, BOOST++, PETSC, DUNE, LAPACK, etc.).
+Familiaridade com CMake, Makefiles e outras ferramentas para compilação de código multiplataforma.
+Conhecimento de física de fluidos.
